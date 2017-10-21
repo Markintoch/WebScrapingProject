@@ -1,0 +1,18 @@
+{
+  "name": "webscraping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "markintoch",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "commander": "^2.11.0",
+    "content-disposition": "^0.5.2",
+    "express": "^4.16.2",
+    "request": "^2.83.0"
+  }
+}

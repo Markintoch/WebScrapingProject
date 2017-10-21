@@ -1,0 +1,11 @@
+{
+    "titulo": "Cómo Cortar a Tu Patán Esp (B15)",
+    "cine": "Cinépolis Interplaza",
+    "precio": {
+        "mayores": "$36.00",
+        "adultos": "$50.00",
+        "menores": "$36.00"
+    },
+    "fecha": "Viernes 20 Octubre",
+    "funcion": "8:25PM"
+}

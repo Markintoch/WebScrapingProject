@@ -3,17 +3,11 @@ const cheerio = require('cheerio');
 const request = require('request');
 var fs = require('fs');
 var app = express();
-
 app.get('/',function(req, res){
-  url = 'https://inetvis.cineticket.com.mx/compra/visSelectTickets.aspx?tkn=&cinemacode=333&txtSessionId=79638';
-
+  url = 'https://inetvis.cineticket.com.mx/compra/visSelectTickets.aspx?tkn=&cinemacode=333&txtSessionId=79954';
   request(url, function(error, response, html){
-
-
   if(!error){
-    // Next, we'll utilize the cheerio library on the returned html which will essentially give us jQuery functionality
     var $ = cheerio.load(html);
-    // Finally, we'll define the variables we're going to capture
     var titulo, cine, fecha, funcion, menores, adultos, mayores;
     var json = { titulo : "", cine : "", precio : {mayores: "", adultos: "", menores: ""}, fecha : "", funcion : ""};
     //Titulo
@@ -58,12 +52,13 @@ app.get('/',function(req, res){
       funcion = data.text();
       json.funcion = funcion;
     })
-    fs.writeFile('cines.json', JSON.stringify(json, null, 4), function(err){
+    fs.writeFile('CinepolisJSON.json', JSON.stringify(json, null, 4), function(err){
       console.log('Scraper corrio correctamente');
+      res.json(json);
       })
     }
   })
 });
-app.listen('8888');
-console.log("Servidor corriendo");
+//app.listen('8888');
+//console.log("Servidor corriendo");
 exports = module.exports = app;

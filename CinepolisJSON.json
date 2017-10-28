@@ -1,0 +1,11 @@
+{
+    "titulo": "Coco Esp (A)",
+    "cine": "Cinépolis Interplaza",
+    "precio": {
+        "mayores": "$37.00",
+        "adultos": "$50.00",
+        "menores": "$37.00"
+    },
+    "fecha": "Viernes 27 Octubre",
+    "funcion": "05:15pm"
+}

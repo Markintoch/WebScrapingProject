@@ -3,8 +3,10 @@ const cheerio = require('cheerio');
 const request = require('request');
 var fs = require('fs');
 var app = express();
+let json2 = [];
 app.get('/',function(req, res){
-  url = 'https://cinemex.com/checkout/20979563/?ref=bb';
+  for(var i = 21070622; i<=21070629;i++){
+  url = 'https://cinemex.com/checkout/'+i;
   request(url, function(error, response, html){
   if(!error){
     var $ = cheerio.load(html);
@@ -30,11 +32,13 @@ app.get('/',function(req, res){
       json.precio.adultos = adultos;
       json.precio.menores = menores;
     })
+    json2.push(json);
     fs.writeFile('CinemexJSON.json', JSON.stringify(json, null, 4), function(err){
       console.log('Scraper corrio correctamente');
-      res.json(json);
+      res.json(json2);
       })
     }
   })
+}
 });
 exports = module.exports = app;

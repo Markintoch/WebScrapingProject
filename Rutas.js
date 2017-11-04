@@ -2,6 +2,8 @@
 var express = require('express');
 const cheerio = require('cheerio');
 const request = require('request');
+var cinemex = require('./Cinemex');
+var cinepolis = require('./Cinepolis');
 var app = express();
 var router = express.Router();
 router.route('/').get(function(peticion,respuesta){
@@ -9,7 +11,7 @@ router.route('/').get(function(peticion,respuesta){
 });
 
 
-router.route('/Cinemex').get(function(peticion,respuesta){
+app.use('/Cinemex',cinemex);/**function(peticion,respuesta){
   url = 'https://cinemex.com/checkout/20979563/?ref=bb';
   request(url,function(peticion,response,html){
     var $ = cheerio.load(html);
@@ -37,10 +39,10 @@ router.route('/Cinemex').get(function(peticion,respuesta){
     })
     respuesta.json(json);
   });
-});
+}**/
 
 
-router.route('/Cinepolis').get(function(peticion,respuesta){
+app.use('/Cinepolis',cinepolis);/**function(peticion,respuesta){
   url = 'https://inetvis.cineticket.com.mx/compra/visSelectTickets.aspx?tkn=&cinemacode=333&txtSessionId=79954';
   request(url,function(error,response,html){
     var $ = cheerio.load(html);
@@ -89,5 +91,5 @@ router.route('/Cinepolis').get(function(peticion,respuesta){
     })
     respuesta.json(json);
   });
-});
+}**/
 module.exports = router;

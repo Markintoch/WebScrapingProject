@@ -1,12 +1,218 @@
-{
-    "titulo": "Thor 3: Ragnarok",
-    "cine": "Cinemex Céntrika",
-    "precio": {
-        "mayores": "$46.00 c/u",
-        "adultos": "$46.00 c/u",
-        "menores": "$51.00 c/u"
+[
+    {
+        "titulo": "Coco",
+        "cine": "Cinemex ",
+        "complejo": "Mol Concordia",
+        "precio": [
+            {
+                "tipo": "menores",
+                "precioLista": "$37.00 c/u",
+                "monto": ""
+            },
+            {
+                "tipo": "menores",
+                "precioLista": "$37.00 c/u",
+                "monto": ""
+            },
+            {
+                "tipo": "menores",
+                "precioLista": "$37.00 c/u",
+                "monto": ""
+            }
+        ],
+        "fecha": "Sábado 04 de noviembre",
+        "funcion": "6"
     },
-    "fecha": "Jueves 02 de noviembre",
-    "funcion": "8"
-}: "4"
-}
+    {
+        "titulo": "Thor 3: Ragnarok",
+        "cine": "Cinemex ",
+        "complejo": "Mol Concordia",
+        "precio": [
+            {
+                "tipo": "menores",
+                "precioLista": "$37.00 c/u",
+                "monto": ""
+            },
+            {
+                "tipo": "menores",
+                "precioLista": "$37.00 c/u",
+                "monto": ""
+            },
+            {
+                "tipo": "menores",
+                "precioLista": "$37.00 c/u",
+                "monto": ""
+            }
+        ],
+        "fecha": "Sábado 04 de noviembre",
+        "funcion": "5"
+    },
+    {
+        "titulo": "Thor 3: Ragnarok",
+        "cine": "Cinemex ",
+        "complejo": "Mol Concordia",
+        "precio": [
+            {
+                "tipo": "menores",
+                "precioLista": "",
+                "monto": ""
+            },
+            {
+                "tipo": "menores",
+                "precioLista": "",
+                "monto": ""
+            },
+            {
+                "tipo": "menores",
+                "precioLista": "",
+                "monto": ""
+            }
+        ],
+        "fecha": "Sábado 04 de noviembre",
+        "funcion": "1"
+    },
+    {
+        "titulo": "Thor 3: Ragnarok",
+        "cine": "Cinemex ",
+        "complejo": "Mol Concordia",
+        "precio": [
+            {
+                "tipo": "menores",
+                "precioLista": "$37.00 c/u",
+                "monto": ""
+            },
+            {
+                "tipo": "menores",
+                "precioLista": "$37.00 c/u",
+                "monto": ""
+            },
+            {
+                "tipo": "menores",
+                "precioLista": "$37.00 c/u",
+                "monto": ""
+            }
+        ],
+        "fecha": "Sábado 04 de noviembre",
+        "funcion": "4"
+    },
+    {
+        "titulo": "Coco",
+        "cine": "Cinemex ",
+        "complejo": "Mol Concordia",
+        "precio": [
+            {
+                "tipo": "menores",
+                "precioLista": "$37.00 c/u",
+                "monto": ""
+            },
+            {
+                "tipo": "menores",
+                "precioLista": "$37.00 c/u",
+                "monto": ""
+            },
+            {
+                "tipo": "menores",
+                "precioLista": "$37.00 c/u",
+                "monto": ""
+            }
+        ],
+        "fecha": "Sábado 04 de noviembre",
+        "funcion": "3"
+    },
+    {
+        "titulo": "Feliz Día De Tu Muerte",
+        "cine": "Cinemex ",
+        "complejo": "Mol Concordia",
+        "precio": [
+            {
+                "tipo": "menores",
+                "precioLista": "$37.00 c/u",
+                "monto": ""
+            },
+            {
+                "tipo": "menores",
+                "precioLista": "$37.00 c/u",
+                "monto": ""
+            },
+            {
+                "tipo": "menores",
+                "precioLista": "$37.00 c/u",
+                "monto": ""
+            }
+        ],
+        "fecha": "Sábado 04 de noviembre",
+        "funcion": "8"
+    },
+    {
+        "titulo": "El Regreso Del Demonio",
+        "cine": "Cinemex ",
+        "complejo": "Mol Concordia",
+        "precio": [
+            {
+                "tipo": "menores",
+                "precioLista": "$37.00 c/u",
+                "monto": ""
+            },
+            {
+                "tipo": "menores",
+                "precioLista": "$37.00 c/u",
+                "monto": ""
+            },
+            {
+                "tipo": "menores",
+                "precioLista": "$37.00 c/u",
+                "monto": ""
+            }
+        ],
+        "fecha": "Sábado 04 de noviembre",
+        "funcion": "2"
+    },
+    {
+        "titulo": "Coco",
+        "cine": "Cinemex ",
+        "complejo": "Mol Concordia",
+        "precio": [
+            {
+                "tipo": "menores",
+                "precioLista": "$37.00 c/u",
+                "monto": ""
+            },
+            {
+                "tipo": "menores",
+                "precioLista": "$37.00 c/u",
+                "monto": ""
+            },
+            {
+                "tipo": "menores",
+                "precioLista": "$37.00 c/u",
+                "monto": ""
+            }
+        ],
+        "fecha": "Sábado 04 de noviembre",
+        "funcion": "7"
+    },
+    {
+        "titulo": "Coco",
+        "cine": "Cinemex ",
+        "complejo": "Mol Concordia",
+        "precio": [
+            {
+                "tipo": "menores",
+                "precioLista": "$37.00 c/u",
+                "monto": ""
+            },
+            {
+                "tipo": "menores",
+                "precioLista": "$37.00 c/u",
+                "monto": ""
+            },
+            {
+                "tipo": "menores",
+                "precioLista": "$37.00 c/u",
+                "monto": ""
+            }
+        ],
+        "fecha": "Sábado 04 de noviembre",
+        "funcion": "5"
+    }
+]

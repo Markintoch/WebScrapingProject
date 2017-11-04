@@ -3,42 +3,82 @@ const cheerio = require('cheerio');
 const request = require('request');
 var fs = require('fs');
 var app = express();
-let json2 = [];
-app.get('/',function(req, res){
-  for(var i = 21070622; i<=21070629;i++){
-  url = 'https://cinemex.com/checkout/'+i;
-  request(url, function(error, response, html){
-  if(!error){
-    var $ = cheerio.load(html);
-    var titulo, cine, fecha, funcion, menores, adultos, mayores;
-    var json = { titulo : "", cine : "", precio : {mayores: "", adultos: "", menores: ""}, fecha : "", funcion : ""};
-    $('.movie-details-info').filter(function(){
-      var data = $(this);
-      titulo = data.children().eq(1).text();
-      cine = data.children().eq(11).text();
-      fecha = data.children().eq(7).text();
-      funcion = data.children().eq(13).text();
-      json.titulo = titulo;
-      json.cine = cine
-      json.fecha = fecha;
-      json.funcion = funcion;
-    })
-    $('.qty-selection').filter(function(){
-      var data = $(this);
-      mayores = data.children().children().children().eq(8).text();
-      adultos = data.children().children().children().eq(5).text();
-      menores = data.children().children().children().eq(2).text();
-      json.precio.mayores = mayores;
-      json.precio.adultos = adultos;
-      json.precio.menores = menores;
-    })
-    json2.push(json);
-    fs.writeFile('CinemexJSON.json', JSON.stringify(json, null, 4), function(err){
-      console.log('Scraper corrio correctamente');
-      res.json(json2);
-      })
+let urlBase = 'https://cinemex.com/checkout/';
+var id = 21090015;
+function GeneraURL(){
+  return new Promise((resolve,reject) =>{
+    let arrayURLs = [];
+    for(var i = id; i <= 21090023; i++){
+      arrayURLs.push(urlBase+''+i);
     }
+    resolve(arrayURLs);
   })
 }
-});
+
+function readPeliculas(){
+  return new Promise(function(resolve,reject){
+    GeneraURL()
+      .then(respuestaURL =>{
+        let arrayPromise = respuestaURL.map(elementoArray =>{
+          return new Promise((resolve,reject) => {
+            request(elementoArray,function(error,response,html){
+              if(!error){
+                var $ = cheerio.load(html);
+                var titulo, cine, fecha, funcion, tipo, precioLista, monto, complejo;
+                var json = { titulo : "", cine : "",complejo : "", precio : [], fecha : "", funcion : ""};
+                var precios = { tipo : "", precioLista : "", monto : ""};
+                $('.movie-details-info').filter(function(){
+                  var data = $(this);
+                  titulo = data.children().eq(1).text();
+                  cine = data.children().eq(11).text();
+                  fecha = data.children().eq(7).text();
+                  funcion = data.children().eq(13).text();
+                  json.titulo = titulo;
+                  json.cine = "Cinemex ";
+                  json.complejo = cine.split(json.cine).pop();;
+                  json.fecha = fecha;
+                  json.funcion = funcion;
+                })
+                $('.qty-selection').filter(function(){
+                  var data = $(this);
+                  mayores = data.children().children().children().eq(8).text();
+                  adultos = data.children().children().children().eq(5).text();
+                  menores = data.children().children().children().eq(11).text();
+                  precios.tipo = "mayores";
+                  precios.precioLista = mayores;
+                  json.precio.push(precios);
+                  precios.tipo = "adultos";
+                  precios.precioLista = adultos;
+                  json.precio.push(precios);
+                  precios.tipo = "menores";
+                  precios.precioLista = menores;
+                  json.precio.push(precios);
+                })
+                console.log(elementoArray);
+                resolve(json);
+              }
+            })
+          })
+        })
+        Promise.all(arrayPromise)
+          .then(regresoPromise => {resolve(regresoPromise)})
+      })
+}
+)}
+
+function writePeliculas(jsonEscribir,res){
+  return new Promise(function(resolve,reject){
+    console.log('Scraper corrio correctamente');
+    console.log(jsonEscribir);
+    fs.writeFile('CinemexJSON.json', JSON.stringify(jsonEscribir, null, 4), function(err){
+      res.json(jsonEscribir);
+      resolve();
+      })
+  })
+}
+app.get('/',function(req,res){
+  readPeliculas().then(json => writePeliculas(json,res))
+  //readPeliculas().then(json2 =>{console.log(json2);
+  //writePeliculas(json2,res)})
+})
 exports = module.exports = app;

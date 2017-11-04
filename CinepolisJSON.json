@@ -1,11 +1,123 @@
-{
-    "titulo": "Coco Esp (A)",
-    "cine": "Cinépolis Interplaza",
-    "precio": {
-        "mayores": "$37.00",
-        "adultos": "$50.00",
-        "menores": "$37.00"
+[
+    {
+        "titulo": "Thor: Ragnarok Esp (B)",
+        "cine": "Cinépolis Interplaza",
+        "precio": {
+            "mayores": "$37.00",
+            "adultos": "$44.00",
+            "menores": "$37.00"
+        },
+        "fecha": "Jueves 9 Noviembre",
+        "funcion": "02:45pm"
     },
-    "fecha": "Viernes 27 Octubre",
-    "funcion": "05:15pm"
-}
+    {
+        "titulo": "Thor: Ragnarok Esp (B)",
+        "cine": "Cinépolis Interplaza",
+        "precio": {
+            "mayores": "$37.00",
+            "adultos": "$44.00",
+            "menores": "$37.00"
+        },
+        "fecha": "Jueves 9 Noviembre",
+        "funcion": "05:20pm"
+    },
+    {
+        "titulo": "Thor: Ragnarok Esp (B)",
+        "cine": "Cinépolis Interplaza",
+        "precio": {
+            "mayores": "$37.00",
+            "adultos": "$44.00",
+            "menores": "$37.00"
+        },
+        "fecha": "Jueves 9 Noviembre",
+        "funcion": "08:00pm"
+    },
+    {
+        "titulo": "El Regreso del Demonio Esp (B15)",
+        "cine": "Cinépolis Interplaza",
+        "precio": {
+            "mayores": "$37.00",
+            "adultos": "$44.00",
+            "menores": "$37.00"
+        },
+        "fecha": "Jueves 9 Noviembre",
+        "funcion": "12:00pm"
+    },
+    {
+        "titulo": "El Regreso del Demonio Esp (B15)",
+        "cine": "Cinépolis Interplaza",
+        "precio": {
+            "mayores": "$37.00",
+            "adultos": "$44.00",
+            "menores": "$37.00"
+        },
+        "fecha": "Jueves 9 Noviembre",
+        "funcion": "02:05pm"
+    },
+    {
+        "titulo": "El Regreso del Demonio Esp (B15)",
+        "cine": "Cinépolis Interplaza",
+        "precio": {
+            "mayores": "$37.00",
+            "adultos": "$44.00",
+            "menores": "$37.00"
+        },
+        "fecha": "Jueves 9 Noviembre",
+        "funcion": "04:10pm"
+    },
+    {
+        "titulo": "El Regreso del Demonio Esp (B15)",
+        "cine": "Cinépolis Interplaza",
+        "precio": {
+            "mayores": "$37.00",
+            "adultos": "$44.00",
+            "menores": "$37.00"
+        },
+        "fecha": "Jueves 9 Noviembre",
+        "funcion": "06:15pm"
+    },
+    {
+        "titulo": "El Regreso del Demonio Esp (B15)",
+        "cine": "Cinépolis Interplaza",
+        "precio": {
+            "mayores": "$37.00",
+            "adultos": "$44.00",
+            "menores": "$37.00"
+        },
+        "fecha": "Jueves 9 Noviembre",
+        "funcion": "08:20pm"
+    },
+    {
+        "titulo": "Coco Esp (A)",
+        "cine": "Cinépolis Interplaza",
+        "precio": {
+            "mayores": "$37.00",
+            "adultos": "$44.00",
+            "menores": "$37.00"
+        },
+        "fecha": "Jueves 9 Noviembre",
+        "funcion": "11:50am"
+    },
+    {
+        "titulo": "Coco Esp (A)",
+        "cine": "Cinépolis Interplaza",
+        "precio": {
+            "mayores": "$37.00",
+            "adultos": "$44.00",
+            "menores": "$37.00"
+        },
+        "fecha": "Jueves 9 Noviembre",
+        "funcion": "02:30pm"
+    },
+    {
+        "titulo": "Coco Esp (A)",
+        "cine": "Cinépolis Interplaza",
+        "precio": {
+            "mayores": "$37.00",
+            "adultos": "$44.00",
+            "menores": "$37.00"
+        },
+        "fecha": "Jueves 9 Noviembre",
+        "funcion": "05:05pm"
+    }
+]

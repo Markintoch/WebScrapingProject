@@ -24,8 +24,11 @@ function readPeliculas(){
             request(elementoArray,(error,response,html) =>{
               if(!error){
                 var $ = cheerio.load(html);
-                var titulo, cine, fecha, funcion, menores, adultos, mayores;
-                var json = { titulo : "", cine : "", precio : {mayores: "", adultos: "", menores: ""}, fecha : "", funcion : ""};
+                var titulo, cine, fecha, funcion, menores, adultos, mayores, complejo, precioLista, monto;
+                var json = { titulo : "", cine : "",complejo : "", precio : [], fecha : "", funcion : ""};
+                var preciosMayores = { tipo : "", precioLista : "", monto : ""};
+                var preciosAdultos = { tipo : "", precioLista : "", monto : ""};
+                var preciosMenores = { tipo : "", precioLista : "", monto : ""};
                 //Titulo
                 $('#visOrderTracker_txtMovieDetails').filter(function(){
                   var data = $(this);
@@ -36,25 +39,35 @@ function readPeliculas(){
                 $('#visOrderTracker_txtCinemaDetails').filter(function(){
                   var data = $(this);
                   cine = data.text();
-                  json.cine = cine;
+                  json.cine = "Cinepolis ";
+                    json.complejo = cine.split(json.cine).pop();
                 })
                 //precio de la funcion de adultos mayores
                 $('#rptAreaCategory__ctl0_rptTicketList__ctl1_TicketPrice0').filter(function(){
                   var data = $(this);
-                  mayores = data.text();
-                  json.precio.mayores = mayores;
+                    mayores = data.text();
+                    preciosMayores.tipo = "mayores";
+                    preciosMayores.precioLista = mayores;
+                    preciosMayores.monto = parseInt((mayores.substring(1, 3)));
+                    json.precio.push(preciosMayores);
                 })
                 //precio de la funcion de adultos
                 $('#rptAreaCategory__ctl0_rptTicketList__ctl2_TicketPrice1').filter(function(){
                   var data = $(this);
                   adultos = data.text();
-                  json.precio.adultos = adultos;
+                    preciosAdultos.tipo = "adultos";
+                    preciosAdultos.precioLista = adultos;
+                    preciosAdultos.monto = parseInt((adultos.substring(1, 3)));
+                  json.precio.push(preciosAdultos);
                 })
                 //precio de la funcion de lso menores
                 $('#rptAreaCategory__ctl0_rptTicketList__ctl3_TicketPrice2').filter(function(){
                   var data = $(this);
                   menores = data.text();
-                  json.precio.menores = menores;
+                    preciosMenores.tipo = "menores";
+                    preciosMenores.precioLista = menores;
+                    preciosMenores.monto = parseInt((menores.substring(1, 3)));
+                    json.precio.push(preciosMenores);
                 })
                 //fecha de la funcion
                 $('#visOrderTracker_txtSessionDateDetails').filter(function(){

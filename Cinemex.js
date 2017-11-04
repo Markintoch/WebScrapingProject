@@ -26,7 +26,9 @@ function readPeliculas(){
                 var $ = cheerio.load(html);
                 var titulo, cine, fecha, funcion, tipo, precioLista, monto, complejo;
                 var json = { titulo : "", cine : "",complejo : "", precio : [], fecha : "", funcion : ""};
-                var precios = { tipo : "", precioLista : "", monto : ""};
+                var preciosMayores = { tipo : "", precioLista : "", monto : ""};
+                var preciosAdultos = { tipo : "", precioLista : "", monto : ""};
+                var preciosMenores = { tipo : "", precioLista : "", monto : ""};
                 $('.movie-details-info').filter(function(){
                   var data = $(this);
                   titulo = data.children().eq(1).text();
@@ -35,7 +37,7 @@ function readPeliculas(){
                   funcion = data.children().eq(13).text();
                   json.titulo = titulo;
                   json.cine = "Cinemex ";
-                  json.complejo = cine.split(json.cine).pop();;
+                  json.complejo = cine.split(json.cine).pop();
                   json.fecha = fecha;
                   json.funcion = funcion;
                 })
@@ -44,15 +46,20 @@ function readPeliculas(){
                   mayores = data.children().children().children().eq(8).text();
                   adultos = data.children().children().children().eq(5).text();
                   menores = data.children().children().children().eq(11).text();
-                  precios.tipo = "mayores";
-                  precios.precioLista = mayores;
-                  json.precio.push(precios);
-                  precios.tipo = "adultos";
-                  precios.precioLista = adultos;
-                  json.precio.push(precios);
-                  precios.tipo = "menores";
-                  precios.precioLista = menores;
-                  json.precio.push(precios);
+                  preciosMayores.tipo = "mayores";
+                  preciosMayores.precioLista = mayores;
+                  preciosMayores.monto = parseInt(mayores.substring(1, 3));
+                  json.precio.push(preciosMayores);
+                    
+                  preciosAdultos.tipo = "adultos";
+                  preciosAdultos.precioLista = adultos;
+                    preciosAdultos.monto = parseInt(adultos.substring(1, 3));
+                  json.precio.push(preciosAdultos);
+                    
+                  preciosMenores.tipo = "menores";
+                  preciosMenores.precioLista = menores;
+                    preciosMenores.monto = parseInt(menores.substring(1, 3));
+                  json.precio.push(preciosMenores);
                 })
                 console.log(elementoArray);
                 resolve(json);

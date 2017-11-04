@@ -5,19 +5,19 @@
         "complejo": "Mol Concordia",
         "precio": [
             {
-                "tipo": "menores",
+                "tipo": "mayores",
                 "precioLista": "$37.00 c/u",
-                "monto": ""
+                "monto": 37
+            },
+            {
+                "tipo": "adultos",
+                "precioLista": "$43.00 c/u",
+                "monto": 43
             },
             {
                 "tipo": "menores",
                 "precioLista": "$37.00 c/u",
-                "monto": ""
-            },
-            {
-                "tipo": "menores",
-                "precioLista": "$37.00 c/u",
-                "monto": ""
+                "monto": 37
             }
         ],
         "fecha": "Sábado 04 de noviembre",
@@ -29,19 +29,19 @@
         "complejo": "Mol Concordia",
         "precio": [
             {
-                "tipo": "menores",
+                "tipo": "mayores",
                 "precioLista": "$37.00 c/u",
-                "monto": ""
+                "monto": 37
+            },
+            {
+                "tipo": "adultos",
+                "precioLista": "$43.00 c/u",
+                "monto": 43
             },
             {
                 "tipo": "menores",
                 "precioLista": "$37.00 c/u",
-                "monto": ""
-            },
-            {
-                "tipo": "menores",
-                "precioLista": "$37.00 c/u",
-                "monto": ""
+                "monto": 37
             }
         ],
         "fecha": "Sábado 04 de noviembre",
@@ -53,19 +53,19 @@
         "complejo": "Mol Concordia",
         "precio": [
             {
-                "tipo": "menores",
+                "tipo": "mayores",
                 "precioLista": "",
-                "monto": ""
+                "monto": null
+            },
+            {
+                "tipo": "adultos",
+                "precioLista": "$46.00 c/u",
+                "monto": 46
             },
             {
                 "tipo": "menores",
                 "precioLista": "",
-                "monto": ""
-            },
-            {
-                "tipo": "menores",
-                "precioLista": "",
-                "monto": ""
+                "monto": null
             }
         ],
         "fecha": "Sábado 04 de noviembre",
@@ -77,19 +77,19 @@
         "complejo": "Mol Concordia",
         "precio": [
             {
-                "tipo": "menores",
+                "tipo": "mayores",
                 "precioLista": "$37.00 c/u",
-                "monto": ""
+                "monto": 37
+            },
+            {
+                "tipo": "adultos",
+                "precioLista": "$43.00 c/u",
+                "monto": 43
             },
             {
                 "tipo": "menores",
                 "precioLista": "$37.00 c/u",
-                "monto": ""
-            },
-            {
-                "tipo": "menores",
-                "precioLista": "$37.00 c/u",
-                "monto": ""
+                "monto": 37
             }
         ],
         "fecha": "Sábado 04 de noviembre",
@@ -101,19 +101,19 @@
         "complejo": "Mol Concordia",
         "precio": [
             {
-                "tipo": "menores",
+                "tipo": "mayores",
                 "precioLista": "$37.00 c/u",
-                "monto": ""
+                "monto": 37
+            },
+            {
+                "tipo": "adultos",
+                "precioLista": "$43.00 c/u",
+                "monto": 43
             },
             {
                 "tipo": "menores",
                 "precioLista": "$37.00 c/u",
-                "monto": ""
-            },
-            {
-                "tipo": "menores",
-                "precioLista": "$37.00 c/u",
-                "monto": ""
+                "monto": 37
             }
         ],
         "fecha": "Sábado 04 de noviembre",
@@ -125,19 +125,19 @@
         "complejo": "Mol Concordia",
         "precio": [
             {
-                "tipo": "menores",
+                "tipo": "mayores",
                 "precioLista": "$37.00 c/u",
-                "monto": ""
+                "monto": 37
+            },
+            {
+                "tipo": "adultos",
+                "precioLista": "$43.00 c/u",
+                "monto": 43
             },
             {
                 "tipo": "menores",
                 "precioLista": "$37.00 c/u",
-                "monto": ""
-            },
-            {
-                "tipo": "menores",
-                "precioLista": "$37.00 c/u",
-                "monto": ""
+                "monto": 37
             }
         ],
         "fecha": "Sábado 04 de noviembre",
@@ -149,19 +149,19 @@
         "complejo": "Mol Concordia",
         "precio": [
             {
-                "tipo": "menores",
+                "tipo": "mayores",
                 "precioLista": "$37.00 c/u",
-                "monto": ""
+                "monto": 37
+            },
+            {
+                "tipo": "adultos",
+                "precioLista": "$43.00 c/u",
+                "monto": 43
             },
             {
                 "tipo": "menores",
                 "precioLista": "$37.00 c/u",
-                "monto": ""
-            },
-            {
-                "tipo": "menores",
-                "precioLista": "$37.00 c/u",
-                "monto": ""
+                "monto": 37
             }
         ],
         "fecha": "Sábado 04 de noviembre",
@@ -173,19 +173,19 @@
         "complejo": "Mol Concordia",
         "precio": [
             {
-                "tipo": "menores",
+                "tipo": "mayores",
                 "precioLista": "$37.00 c/u",
-                "monto": ""
+                "monto": 37
+            },
+            {
+                "tipo": "adultos",
+                "precioLista": "$43.00 c/u",
+                "monto": 43
             },
             {
                 "tipo": "menores",
                 "precioLista": "$37.00 c/u",
-                "monto": ""
-            },
-            {
-                "tipo": "menores",
-                "precioLista": "$37.00 c/u",
-                "monto": ""
+                "monto": 37
             }
         ],
         "fecha": "Sábado 04 de noviembre",
@@ -197,19 +197,19 @@
         "complejo": "Mol Concordia",
         "precio": [
             {
-                "tipo": "menores",
+                "tipo": "mayores",
                 "precioLista": "$37.00 c/u",
-                "monto": ""
+                "monto": 37
+            },
+            {
+                "tipo": "adultos",
+                "precioLista": "$43.00 c/u",
+                "monto": 43
             },
             {
                 "tipo": "menores",
                 "precioLista": "$37.00 c/u",
-                "monto": ""
-            },
-            {
-                "tipo": "menores",
-                "precioLista": "$37.00 c/u",
-                "monto": ""
+                "monto": 37
             }
         ],
         "fecha": "Sábado 04 de noviembre",

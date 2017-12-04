@@ -1,0 +1,611 @@
+[
+    {
+        "cine": "Cinemex",
+        "complejo": "\n    Cinemex Lincoln    \n    ",
+        "peliculas": [
+            {
+                "titulo": "Coco",
+                "funcion": [
+                    {
+                        "hora": "09:40 PM",
+                        "url": "https://cinemex.com/checkout/21504293/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "La Liga de la Justicia",
+                "funcion": [
+                    {
+                        "hora": "10:05 PM",
+                        "url": "https://cinemex.com/checkout/21504294/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "Guerra De Papás 2",
+                "funcion": [
+                    {
+                        "hora": "10:25 PM",
+                        "url": "https://cinemex.com/checkout/21504295/?ref=bb"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "cine": "Cinemex",
+        "complejo": "\n    Cinemex Revolución    \n    ",
+        "peliculas": [
+            {
+                "titulo": "Suburbicon: Bienvenidos Al Paraíso",
+                "funcion": []
+            },
+            {
+                "titulo": "Guerra De Papás 2",
+                "funcion": [
+                    {
+                        "hora": "09:30 PM",
+                        "url": "https://cinemex.com/checkout/21588012/?ref=bb"
+                    },
+                    {
+                        "hora": "10:50 PM",
+                        "url": "https://cinemex.com/checkout/21588016/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "Camino A Marte",
+                "funcion": [
+                    {
+                        "hora": "09:40 PM",
+                        "url": "https://cinemex.com/checkout/21588013/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "La Liga de la Justicia",
+                "funcion": [
+                    {
+                        "hora": "10:00 PM",
+                        "url": "https://cinemex.com/checkout/21588014/?ref=bb"
+                    },
+                    {
+                        "hora": "10:20 PM",
+                        "url": "https://cinemex.com/checkout/21588015/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "Thor 3: Ragnarok",
+                "funcion": []
+            }
+        ]
+    },
+    {
+        "cine": "Cinemex",
+        "complejo": "\n    Cinemex Leones    \n    ",
+        "peliculas": [
+            {
+                "titulo": "La Liga de la Justicia",
+                "funcion": [
+                    {
+                        "hora": "09:20 PM",
+                        "url": "https://cinemex.com/checkout/21532242/?ref=bb"
+                    },
+                    {
+                        "hora": "09:50 PM",
+                        "url": "https://cinemex.com/checkout/21532244/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "Guerra De Papás 2",
+                "funcion": [
+                    {
+                        "hora": "09:40 PM",
+                        "url": "https://cinemex.com/checkout/21532243/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "Thor 3: Ragnarok",
+                "funcion": [
+                    {
+                        "hora": "10:00 PM",
+                        "url": "https://cinemex.com/checkout/21532245/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "Camino A Marte",
+                "funcion": [
+                    {
+                        "hora": "10:20 PM",
+                        "url": "https://cinemex.com/checkout/21542753/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "Voces Ocultas",
+                "funcion": []
+            },
+            {
+                "titulo": "La Gran Fuga",
+                "funcion": [
+                    {
+                        "hora": "10:50 PM",
+                        "url": "https://cinemex.com/checkout/21532246/?ref=bb"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "cine": "Cinemex",
+        "complejo": "\n    Cinemex Fiesta Anáhuac    \n    ",
+        "peliculas": [
+            {
+                "titulo": "La Liga de la Justicia",
+                "funcion": [
+                    {
+                        "hora": "10:15 PM",
+                        "url": "https://cinemex.com/checkout/21564140/?ref=bb"
+                    },
+                    {
+                        "hora": "10:45 PM",
+                        "url": "https://cinemex.com/checkout/21564142/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "Voces Ocultas",
+                "funcion": [
+                    {
+                        "hora": "09:30 PM",
+                        "url": "https://cinemex.com/checkout/21564137/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "Camino A Marte",
+                "funcion": [
+                    {
+                        "hora": "09:45 PM",
+                        "url": "https://cinemex.com/checkout/21564138/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "Guerra De Papás 2",
+                "funcion": [
+                    {
+                        "hora": "10:00 PM",
+                        "url": "https://cinemex.com/checkout/21564139/?ref=bb"
+                    },
+                    {
+                        "hora": "11:00 PM",
+                        "url": "https://cinemex.com/checkout/21564143/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "La Gran Fuga",
+                "funcion": [
+                    {
+                        "hora": "10:30 PM",
+                        "url": "https://cinemex.com/checkout/21564141/?ref=bb"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "cine": "Cinemex",
+        "complejo": "\n    Cinemex Las Américas    \n    ",
+        "peliculas": [
+            {
+                "titulo": "La Liga de la Justicia",
+                "funcion": [
+                    {
+                        "hora": "09:10 PM",
+                        "url": "https://cinemex.com/checkout/21510468/?ref=bb"
+                    },
+                    {
+                        "hora": "09:40 PM",
+                        "url": "https://cinemex.com/checkout/21510470/?ref=bb"
+                    },
+                    {
+                        "hora": "10:40 PM",
+                        "url": "https://cinemex.com/checkout/21510474/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "Suburbicon: Bienvenidos Al Paraíso",
+                "funcion": [
+                    {
+                        "hora": "09:20 PM",
+                        "url": "https://cinemex.com/checkout/21510469/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "Voces Ocultas",
+                "funcion": [
+                    {
+                        "hora": "09:30 PM",
+                        "url": "https://cinemex.com/checkout/21551548/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "Guerra De Papás 2",
+                "funcion": [
+                    {
+                        "hora": "09:50 PM",
+                        "url": "https://cinemex.com/checkout/21510471/?ref=bb"
+                    },
+                    {
+                        "hora": "10:30 PM",
+                        "url": "https://cinemex.com/checkout/21510473/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "La Gran Fuga",
+                "funcion": [
+                    {
+                        "hora": "10:00 PM",
+                        "url": "https://cinemex.com/checkout/21510472/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "Camino A Marte",
+                "funcion": [
+                    {
+                        "hora": "10:10 PM",
+                        "url": "https://cinemex.com/checkout/21551549/?ref=bb"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "cine": "Cinemex",
+        "complejo": "\n    Cinemex Santo Domingo    \n    ",
+        "peliculas": [
+            {
+                "titulo": "Coco",
+                "funcion": [
+                    {
+                        "hora": "09:15 PM",
+                        "url": "https://cinemex.com/checkout/21569427/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "Guerra De Papás 2",
+                "funcion": [
+                    {
+                        "hora": "09:30 PM",
+                        "url": "https://cinemex.com/checkout/21569428/?ref=bb"
+                    },
+                    {
+                        "hora": "10:15 PM",
+                        "url": "https://cinemex.com/checkout/21569431/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "Camino A Marte",
+                "funcion": [
+                    {
+                        "hora": "09:45 PM",
+                        "url": "https://cinemex.com/checkout/21569429/?ref=bb"
+                    },
+                    {
+                        "hora": "10:00 PM",
+                        "url": "https://cinemex.com/checkout/21569430/?ref=bb"
+                    },
+                    {
+                        "hora": "10:30 PM",
+                        "url": "https://cinemex.com/checkout/21569432/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "La Liga de la Justicia",
+                "funcion": [
+                    {
+                        "hora": "10:40 PM",
+                        "url": "https://cinemex.com/checkout/21569433/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "Voces Ocultas",
+                "funcion": [
+                    {
+                        "hora": "10:50 PM",
+                        "url": "https://cinemex.com/checkout/21569434/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "La Gran Fuga",
+                "funcion": [
+                    {
+                        "hora": "11:00 PM",
+                        "url": "https://cinemex.com/checkout/21569435/?ref=bb"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "cine": "Cinemex",
+        "complejo": "\n    Cinemex Humberto Lobo    \n    ",
+        "peliculas": [
+            {
+                "titulo": "Guerra De Papás 2",
+                "funcion": [
+                    {
+                        "hora": "09:10 PM",
+                        "url": "https://cinemex.com/checkout/21509995/?ref=bb"
+                    },
+                    {
+                        "hora": "10:10 PM",
+                        "url": "https://cinemex.com/checkout/21510000/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "Victoria And Abdul",
+                "funcion": [
+                    {
+                        "hora": "09:20 PM",
+                        "url": "https://cinemex.com/checkout/21509996/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "Coco",
+                "funcion": [
+                    {
+                        "hora": "09:30 PM",
+                        "url": "https://cinemex.com/checkout/21509997/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "Cartas De Van Gogh",
+                "funcion": [
+                    {
+                        "hora": "09:45 PM",
+                        "url": "https://cinemex.com/checkout/21509998/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "La Liga de la Justicia",
+                "funcion": [
+                    {
+                        "hora": "10:00 PM",
+                        "url": "https://cinemex.com/checkout/21509999/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "Camino A Marte",
+                "funcion": [
+                    {
+                        "hora": "10:20 PM",
+                        "url": "https://cinemex.com/checkout/21542545/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "Voces Ocultas",
+                "funcion": [
+                    {
+                        "hora": "10:30 PM",
+                        "url": "https://cinemex.com/checkout/21542546/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "La Gran Fuga",
+                "funcion": [
+                    {
+                        "hora": "10:40 PM",
+                        "url": "https://cinemex.com/checkout/21510001/?ref=bb"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "cine": "Cinemex",
+        "complejo": "\n    Cinemex Paseo S. Pedro Platino    \n    ",
+        "peliculas": [
+            {
+                "titulo": "Camino A Marte",
+                "funcion": [
+                    {
+                        "hora": "09:20 PM",
+                        "url": "https://cinemex.com/checkout/21539151/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "Suburbicon: Bienvenidos Al Paraíso",
+                "funcion": [
+                    {
+                        "hora": "09:40 PM",
+                        "url": "https://cinemex.com/checkout/21505722/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "Cartas De Van Gogh",
+                "funcion": [
+                    {
+                        "hora": "10:00 PM",
+                        "url": "https://cinemex.com/checkout/21505723/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "Guerra De Papás 2",
+                "funcion": [
+                    {
+                        "hora": "10:15 PM",
+                        "url": "https://cinemex.com/checkout/21505724/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "Coco",
+                "funcion": [
+                    {
+                        "hora": "10:30 PM",
+                        "url": "https://cinemex.com/checkout/21505725/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "La Liga de la Justicia",
+                "funcion": [
+                    {
+                        "hora": "10:40 PM",
+                        "url": "https://cinemex.com/checkout/21505726/?ref=bb"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "cine": "Cinemex",
+        "complejo": "\n    Cinemex San Agustín    \n    ",
+        "peliculas": [
+            {
+                "titulo": "La Liga de la Justicia",
+                "funcion": [
+                    {
+                        "hora": "09:10 PM",
+                        "url": "https://cinemex.com/checkout/21501714/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "Guerra De Papás 2",
+                "funcion": [
+                    {
+                        "hora": "09:30 PM",
+                        "url": "https://cinemex.com/checkout/21501715/?ref=bb"
+                    },
+                    {
+                        "hora": "10:20 PM",
+                        "url": "https://cinemex.com/checkout/21501719/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "La Gran Fuga",
+                "funcion": [
+                    {
+                        "hora": "09:40 PM",
+                        "url": "https://cinemex.com/checkout/21501716/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "Thor 3: Ragnarok",
+                "funcion": [
+                    {
+                        "hora": "10:00 PM",
+                        "url": "https://cinemex.com/checkout/21501717/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "Coco",
+                "funcion": [
+                    {
+                        "hora": "10:10 PM",
+                        "url": "https://cinemex.com/checkout/21501718/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "Camino A Marte",
+                "funcion": [
+                    {
+                        "hora": "10:30 PM",
+                        "url": "https://cinemex.com/checkout/21545199/?ref=bb"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "cine": "Cinemex",
+        "complejo": "\n    Cinemex Santa Catarina    \n    ",
+        "peliculas": [
+            {
+                "titulo": "La Liga de la Justicia",
+                "funcion": [
+                    {
+                        "hora": "10:00 PM",
+                        "url": "https://cinemex.com/checkout/21554275/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "Coco",
+                "funcion": []
+            },
+            {
+                "titulo": "Voces Ocultas",
+                "funcion": [
+                    {
+                        "hora": "09:30 PM",
+                        "url": "https://cinemex.com/checkout/21554271/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "Guerra De Papás 2",
+                "funcion": [
+                    {
+                        "hora": "09:40 PM",
+                        "url": "https://cinemex.com/checkout/21586531/?ref=bb"
+                    },
+                    {
+                        "hora": "10:10 PM",
+                        "url": "https://cinemex.com/checkout/21554276/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "La Gran Fuga",
+                "funcion": [
+                    {
+                        "hora": "09:50 PM",
+                        "url": "https://cinemex.com/checkout/21554270/?ref=bb"
+                    }
+                ]
+            },
+            {
+                "titulo": "Escala Suicida",
+                "funcion": [
+                    {
+                        "hora": "10:20 PM",
+                        "url": "https://cinemex.com/checkout/21554269/?ref=bb"
+                    }
+                ]
+            }
+        ]
+    }
+]

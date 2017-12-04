@@ -1,6 +1,6 @@
 //libraries
 const express = require('express');
-var cinemex = require('./Cinemex');
+var cinemex = require('./CinemexFunciones');
 var cinepolis = require('./Cinepolis');
 var rutas = require('./Rutas')
 const puerto = 8888;

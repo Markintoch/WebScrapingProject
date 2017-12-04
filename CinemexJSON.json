@@ -1,29 +1,5 @@
 [
     {
-        "titulo": "Coco",
-        "cine": "Cinemex ",
-        "complejo": "Mol Concordia",
-        "precio": [
-            {
-                "tipo": "mayores",
-                "precioLista": "$37.00 c/u",
-                "monto": 37
-            },
-            {
-                "tipo": "adultos",
-                "precioLista": "$43.00 c/u",
-                "monto": 43
-            },
-            {
-                "tipo": "menores",
-                "precioLista": "$37.00 c/u",
-                "monto": 37
-            }
-        ],
-        "fecha": "Sábado 04 de noviembre",
-        "funcion": "6"
-    },
-    {
         "titulo": "Thor 3: Ragnarok",
         "cine": "Cinemex ",
         "complejo": "Mol Concordia",
@@ -44,11 +20,35 @@
                 "monto": 37
             }
         ],
-        "fecha": "Sábado 04 de noviembre",
+        "fecha": "Jueves 23 de noviembre",
+        "funcion": "2"
+    },
+    {
+        "titulo": "La Liga de la Justicia",
+        "cine": "Cinemex ",
+        "complejo": "Mol Concordia",
+        "precio": [
+            {
+                "tipo": "mayores",
+                "precioLista": "$37.00 c/u",
+                "monto": 37
+            },
+            {
+                "tipo": "adultos",
+                "precioLista": "$43.00 c/u",
+                "monto": 43
+            },
+            {
+                "tipo": "menores",
+                "precioLista": "$37.00 c/u",
+                "monto": 37
+            }
+        ],
+        "fecha": "Jueves 23 de noviembre",
         "funcion": "5"
     },
     {
-        "titulo": "Thor 3: Ragnarok",
+        "titulo": "La Liga de la Justicia",
         "cine": "Cinemex ",
         "complejo": "Mol Concordia",
         "precio": [
@@ -68,8 +68,80 @@
                 "monto": null
             }
         ],
-        "fecha": "Sábado 04 de noviembre",
+        "fecha": "Jueves 23 de noviembre",
         "funcion": "1"
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "Terror A 47 Metros",
+        "cine": "Cinemex ",
+        "complejo": "Mol Concordia",
+        "precio": [
+            {
+                "tipo": "mayores",
+                "precioLista": "$37.00 c/u",
+                "monto": 37
+            },
+            {
+                "tipo": "adultos",
+                "precioLista": "$43.00 c/u",
+                "monto": 43
+            },
+            {
+                "tipo": "menores",
+                "precioLista": "$37.00 c/u",
+                "monto": 37
+            }
+        ],
+        "fecha": "Jueves 23 de noviembre",
+        "funcion": "8"
+    },
+    {
+        "titulo": "Coco",
+        "cine": "Cinemex ",
+        "complejo": "Mol Concordia",
+        "precio": [
+            {
+                "tipo": "mayores",
+                "precioLista": "$37.00 c/u",
+                "monto": 37
+            },
+            {
+                "tipo": "adultos",
+                "precioLista": "$43.00 c/u",
+                "monto": 43
+            },
+            {
+                "tipo": "menores",
+                "precioLista": "$37.00 c/u",
+                "monto": 37
+            }
+        ],
+        "fecha": "Jueves 23 de noviembre",
+        "funcion": "7"
     },
     {
         "titulo": "Thor 3: Ragnarok",
@@ -92,107 +164,67 @@
                 "monto": 37
             }
         ],
-        "fecha": "Sábado 04 de noviembre",
-        "funcion": "4"
-    },
-    {
-        "titulo": "Coco",
-        "cine": "Cinemex ",
-        "complejo": "Mol Concordia",
-        "precio": [
-            {
-                "tipo": "mayores",
-                "precioLista": "$37.00 c/u",
-                "monto": 37
-            },
-            {
-                "tipo": "adultos",
-                "precioLista": "$43.00 c/u",
-                "monto": 43
-            },
-            {
-                "tipo": "menores",
-                "precioLista": "$37.00 c/u",
-                "monto": 37
-            }
-        ],
-        "fecha": "Sábado 04 de noviembre",
-        "funcion": "3"
-    },
-    {
-        "titulo": "Feliz Día De Tu Muerte",
-        "cine": "Cinemex ",
-        "complejo": "Mol Concordia",
-        "precio": [
-            {
-                "tipo": "mayores",
-                "precioLista": "$37.00 c/u",
-                "monto": 37
-            },
-            {
-                "tipo": "adultos",
-                "precioLista": "$43.00 c/u",
-                "monto": 43
-            },
-            {
-                "tipo": "menores",
-                "precioLista": "$37.00 c/u",
-                "monto": 37
-            }
-        ],
-        "fecha": "Sábado 04 de noviembre",
-        "funcion": "8"
-    },
-    {
-        "titulo": "El Regreso Del Demonio",
-        "cine": "Cinemex ",
-        "complejo": "Mol Concordia",
-        "precio": [
-            {
-                "tipo": "mayores",
-                "precioLista": "$37.00 c/u",
-                "monto": 37
-            },
-            {
-                "tipo": "adultos",
-                "precioLista": "$43.00 c/u",
-                "monto": 43
-            },
-            {
-                "tipo": "menores",
-                "precioLista": "$37.00 c/u",
-                "monto": 37
-            }
-        ],
-        "fecha": "Sábado 04 de noviembre",
+        "fecha": "Jueves 23 de noviembre",
         "funcion": "2"
     },
     {
-        "titulo": "Coco",
-        "cine": "Cinemex ",
-        "complejo": "Mol Concordia",
-        "precio": [
-            {
-                "tipo": "mayores",
-                "precioLista": "$37.00 c/u",
-                "monto": 37
-            },
-            {
-                "tipo": "adultos",
-                "precioLista": "$43.00 c/u",
-                "monto": 43
-            },
-            {
-                "tipo": "menores",
-                "precioLista": "$37.00 c/u",
-                "monto": 37
-            }
-        ],
-        "fecha": "Sábado 04 de noviembre",
-        "funcion": "7"
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
     },
     {
-        "titulo": "Coco",
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "La Liga de la Justicia",
+        "cine": "Cinemex ",
+        "complejo": "Mol Concordia",
+        "precio": [
+            {
+                "tipo": "mayores",
+                "precioLista": "",
+                "monto": null
+            },
+            {
+                "tipo": "adultos",
+                "precioLista": "$46.00 c/u",
+                "monto": 46
+            },
+            {
+                "tipo": "menores",
+                "precioLista": "",
+                "monto": null
+            }
+        ],
+        "fecha": "Jueves 23 de noviembre",
+        "funcion": "1"
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "La Liga de la Justicia",
         "cine": "Cinemex ",
         "complejo": "Mol Concordia",
         "precio": [
@@ -212,7 +244,3895 @@
                 "monto": 37
             }
         ],
-        "fecha": "Sábado 04 de noviembre",
-        "funcion": "5"
+        "fecha": "Jueves 23 de noviembre",
+        "funcion": "4"
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
+    },
+    {
+        "titulo": "",
+        "cine": "",
+        "complejo": "",
+        "precio": [],
+        "fecha": "",
+        "funcion": ""
     }
 ]

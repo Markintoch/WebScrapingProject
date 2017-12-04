@@ -50,12 +50,12 @@ function readPeliculas(){
                   preciosMayores.precioLista = mayores;
                   preciosMayores.monto = parseInt(mayores.substring(1, 3));
                   json.precio.push(preciosMayores);
-                    
+
                   preciosAdultos.tipo = "adultos";
                   preciosAdultos.precioLista = adultos;
                     preciosAdultos.monto = parseInt(adultos.substring(1, 3));
                   json.precio.push(preciosAdultos);
-                    
+
                   preciosMenores.tipo = "menores";
                   preciosMenores.precioLista = menores;
                     preciosMenores.monto = parseInt(menores.substring(1, 3));
